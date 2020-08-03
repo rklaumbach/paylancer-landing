@@ -51,3 +51,25 @@ hr {
 .btn-xl {
   padding: 1rem 2rem;
 }
+
+.mc-field-group {
+  font-size: 1.5rem;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.indicates-required {
+  font-size: 3rem;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#mce-responses {
+  font-size: 1.5rem;
+  color: white !important;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.button {
+  font-size: 3em;
+}
